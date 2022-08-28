@@ -1,6 +1,23 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Jim Huertas</h1>
+<h3 align="center">A passionate frontend/backend developer got some experience with unity btw 🙂</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimhuertas&label=Profile%20views&color=0e75b6&style=flat" alt="jimhuertas" /> </p>
+
+- 🔭 I’m currently working on [Cube Timer App with Flutter-MongoDB](https://github.com/JimHuertas/cubo_app_v2)
+
+- 🌱 I’m currently learning **React & Typescript**
+
+- 👯 I’m looking to collaborate on **Simulation projects 🤩**
+
+- 🤝 I’m looking for help with **Unity**
+
+- 👨‍💻 All of my projects are available at [this profile, if un want check it out!](this profile, if un want check it out!)
+
+- 💬 Ask me about Flutter :D **Some Widgets maybe you don't know**
+
+- 📫 How to reach me **jimhuertas20@gmail.com**
+
+- ⚡ Fun fact **Be happy, dont care what happened & always read documentation.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
