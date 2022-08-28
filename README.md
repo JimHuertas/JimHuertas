@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimhuertas&label=Profile%20views&color=0e75b6&style=flat" alt="jimhuertas" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimhuertas" alt="jimhuertas" /></a> </p>
+
 - 🔭 I’m currently working on [Cube Timer App with Flutter-MongoDB](https://github.com/JimHuertas/cubo_app_v2)
 
 - 🌱 I’m currently learning **React & Typescript**
@@ -29,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jimhuertas&show_icons=true&locale=en&layout=compact" alt="jimhuertas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jimhuertas&show_icons=true&locale=en" alt="jimhuertas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimhuertas&" alt="jimhuertas" /></p>
