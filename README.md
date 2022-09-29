@@ -6,12 +6,12 @@
 
 ### Stats
 
-[![JimHuertas's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimHuertas&show_icons=true&theme=github_dark)](https://github.com/JimHuertas)
+[![JimHuertas's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimHuertas&show_icons=true&theme=tokyonight)](https://github.com/JimHuertas)
 
 ------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimHuertas&layout=compact&langs_count=8&theme=tokyonight)](#)
 --------
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimhuertas&theme=tokyonight" alt="jimhuertas" /></a> </p>
+
 
 🔭 I’m currently working on [Cube Timer App with Flutter-MongoDB](https://github.com/JimHuertas/cubo_app_v2)
 ​
@@ -48,5 +48,6 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 -------
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimhuertas&theme=tokyonight&&column=-1&margin-w=8" alt="jimhuertas" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimhuertas&" alt="jimhuertas" /></p>
