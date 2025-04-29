@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jim Huertas</h1>
 <h3 align="center">A passionate frontend/backend developer 🙂</h3>
 
+<h4 align="center"> Working on CubeTimer app here (since 07-2024): [![https://github.com/jimhuertas123](https://github.com/jimhuertas123)]
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimhuertas&label=Profile%20views&color=0e75b6&style=flat" alt="jimhuertas" /> </p>
 ​
 
@@ -13,21 +15,19 @@
 --------
 
 
-🔭 I’m currently working on [Cube Timer App with Flutter-MongoDB](https://github.com/JimHuertas/cubo_app_v2)
+
+🌱 I’m currently learning **Java SpringBoot Microservices**
+
+👯 I’m looking to collaborate on **Mobile & AR projects 🤩**.
+
+🤝 I’m looking for help with **Unity VR**
 ​
-
-🌱 I’m currently learning **React & Typescript**
-
-👯 I’m looking to collaborate on **VR AR Fullstack web/mobile projects 🤩**.
-
-🤝 I’m looking for help with **Unity**
-​
-💬 Ask me about Flutter **AskSome Widgets maybe you don't know**.
+💬 Ask me about Flutter **Especially all about animations**.
 ​
 
 📫 How to reach me **jimhuertas20@gmail.com**
 
-⚡ Fun fact **Be happy, dont care what happened & always read documentation.**
+⚡ Fun fact **Face the worst problem with your best smile & always read documentation.**
 ​
 
 # <h2 align="center">Languages and Tools:</h2>
